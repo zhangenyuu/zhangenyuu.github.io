@@ -19,7 +19,7 @@ Bachelor of Mathematics (BMath)
 
 ### Incoming Quantitative Research Analyst
 **Firm Undisclosed**  
-*Equities Quantitative Research | Spring 2027*
+*Quantitative Research | Spring 2027*
 
 ### Quantitative Research
 **Mackenzie Investments**  
