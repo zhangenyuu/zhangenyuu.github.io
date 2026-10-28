@@ -1,34 +1,54 @@
 ---
 layout: archive
-title: "CV"
+title: "Curriculum Vitae"
 permalink: /cv/
 author_profile: true
 redirect_from:
   - /resume
 ---
 
-{% include base_path %}
+## Education
 
-Education
-======
-* B. Mathematics, University of Waterloo, 2027
+**University of Waterloo**  
+Bachelor of Mathematics (BMath)  
+*Expected April 2027*
 
-Work experience
-======
-* Spring 2027: Quantitative
-  * **Name Redacted**
-  * Quantitative Research
+---
 
-* Winter 2025: Quantitative
-  * Squarepoint Capital
-  * Systematic Volatility
+## Research & Professional Experience
 
-* Winter 2026: Quantitative
-  * Mackenzie Investments
-  * Multi-asset Strategies
-  
-* Summer 2021: Research Assistant 
-  * Harvard T.H. Chan School of Public Health
-  * Policy Lag Modelling & Time Series Analysis 
+### Incoming Quantitative Research Analyst
+**Firm Undisclosed**  
+*Equities Quantitative Research | Spring 2027*
 
+### Quantitative Research
+**Mackenzie Investments**  
+*Multi-Asset Strategies | Winter 2026*
 
+Research in quantitative asset allocation, derivatives, and systematic investment strategies.
+
+### Quantitative Research
+**Squarepoint Capital**  
+*Systematic Volatility | Winter 2025*
+
+Research in options, volatility modelling, statistical signals, and market microstructure.
+
+### Research Assistant
+**Harvard T.H. Chan School of Public Health**  
+*Summer 2021*
+
+Research on policy intervention lag times, change-point detection, and time-series analysis of COVID-19 outcomes.
+
+---
+
+## Research Interests
+
+Probability theory, stochastic processes, martingale theory, stochastic calculus, stochastic control, statistical learning, and mathematical finance.
+
+## Publications
+
+Selected peer-reviewed publications are available on my [Publications](/publications/) page.
+
+## Course Notes
+
+Selected lecture notes in probability, statistics, machine learning, and mathematical finance are available on my [Course Notes](/notes/) page.
