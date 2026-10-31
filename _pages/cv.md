@@ -11,7 +11,7 @@ redirect_from:
 
 **University of Waterloo**  
 Bachelor of Mathematics (BMath)  
-*Expected April 2027*
+*2022 - 2026*
 
 ---
 
