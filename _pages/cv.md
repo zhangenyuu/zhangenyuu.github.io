@@ -17,7 +17,7 @@ Bachelor of Mathematics (BMath)
 
 ## Research & Professional Experience
 
-### Incoming Quantitative Research Analyst
+### Incoming Quantitative Researcher
 **Firm Undisclosed**  
 *Quantitative Research | Spring 2027 | New York City*
 
