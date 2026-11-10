@@ -15,7 +15,7 @@ Bachelor of Mathematics (BMath)
 
 ---
 
-> *“In theory, there is no difference between theory and practice. In practice, there is.”*
+> *“The probability of something happening is inversely proportional to how prepared you are for it.”*
 >
 > <span style="display: block; margin-left: 2em;">— Kenneth Zhang, almost surely.</span>
 
