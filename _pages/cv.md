@@ -15,6 +15,10 @@ Bachelor of Mathematics (BMath)
 
 ---
 
+> *“In theory, there is no difference between theory and practice. In practice, there is.”*
+>
+> <span style="display: block; margin-left: 2em;">— Kenneth Zhang, almost surely.</span>
+
 ## Research & Professional Experience
 
 ### Incoming Quantitative Researcher
